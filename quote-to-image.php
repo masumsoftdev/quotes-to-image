@@ -3,7 +3,7 @@
  * Plugin Name: Quote to Image
  * Description: Adds a button after each quote to convert the quote to an image and display it in a popup.
  * Version: 1.0
- * Author: Your Name
+ * Author: Masum Billah
  */
 
 // Prevent direct access to the file
